@@ -65,6 +65,21 @@ layout: base
         {% endif %}
       </ul>
 
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'https://amixlong.github.io/',
+    repo: 'https://github.com/amixlong/amixlong.github.io.git',
+    oauth: {
+        client_id: '1e7fdfc0962858fa24ec',
+        client_secret: '7cb12ed0ca2f8aa13669e192140f8741c336d9f5',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
+
       {% if page.comments %}
         <div class="disqus-comments">
           {% include disqus.html %}
