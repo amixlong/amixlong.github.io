@@ -4,7 +4,7 @@
 title: Suk's blog
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -32,7 +32,7 @@ avatar: "/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
