@@ -32,7 +32,7 @@ avatar: "/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/bg.jpg"
+#title-img: "/img/bg.jpg"
 
 # --- Background colour/image options --- #
 
@@ -118,7 +118,8 @@ url-pretty: "amixlong.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "Suk1111"
+
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
