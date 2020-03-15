@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 建立blog经历
-subtitle: 絮絮叨叨 | 树燏
+subtitle: 絮絮叨叨 
 date: 2020-03-15 
 tags: [blog,jekyll]
 image: /img/bg.jpg
-bigimg: /img/green.jfif
 ---
 
 <br>
