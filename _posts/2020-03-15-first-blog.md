@@ -3,9 +3,9 @@ layout: post
 title: 建立blog经历
 subtitle: 絮絮叨叨
 date: 2020-03-15 
-author: 树燏
-tags: [blog]
-images: /img/bg.jpg
+name: 树燏
+tags: [blog,jekyll]
+bigimg: /img/bg.jpg
 ---
 
 <br>
