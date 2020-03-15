@@ -28,7 +28,7 @@ reddit:
 
 email:
   name: "Email me"
-  baseURL: "mailto:longshuyu21@126.com"
+  baseURL: "mailto:"
   icon: "fa-envelope"
 
 linkedin:
