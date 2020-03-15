@@ -267,10 +267,7 @@ footer {
   margin-top: 50px;
   font-size: 14px;
   background-color: {{ site.footer-col }};
-  {% if site.footer-img %}
-  background-image: url({{ site.footer-img | relative_url }});
-  background-attachment: fixed;
-  {% endif %}
+
 }
 
 footer p.text-muted {
@@ -347,7 +344,7 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 18px;
+  font-size: 22px;
   font-style: italic;
   margin: 0 0 10px;
 }
@@ -396,7 +393,7 @@ footer .theme-by {
 }
 
 .blog-tags a {
-  color: {{ site.link-col }};
+  color: #009933;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -609,8 +606,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  border: 1px solid {{ site.hover-col }};
-  background-color: {{ site.hover-col }};
+  border: 1px solid #FFFFCC;
+  background-color: #FFFFCC;
 }
 
 .pager {
