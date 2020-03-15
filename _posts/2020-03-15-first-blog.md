@@ -10,11 +10,11 @@ tags: [blog]
 
 ### 了解Jekyll
 
-- 第一步，我先去YouTube把[Jekyll]搭建一个博客的过程看完了，教程通俗易懂，开始着手从头尝试，失败。
-- 第二步，选择了修改别人已经搭建好的主题模板，[Jekyll]提供了很多改动空间很大的模板，但实际上，对于新手来说**可改动大**却是个很不友好的选项。
-- 第三步，经过一番探索~~失败~~之后，我最终确定了我的博客功能。
+- 第一步，我先去YouTube把[Jekyll][Jekyll]搭建一个博客的过程看完了，教程通俗易懂，开始着手从头尝试，失败。
+- 第二步，选择了修改别人已经搭建好的主题模板，Jekyll提供了很多改动空间很大的模板，但实际上，对于新手来说**可改动大**却是个很不友好的选项。
+- 第三步，经过一番探索~~失败~~之后，我最终确定了博客的功能。
 
-### 我的博客功能
+### 博客功能
 - 界面视图在手机端或电脑端都能自动调整大小
 - 拥有翻页功能
 - 拥有标签（tags）
@@ -38,6 +38,7 @@ tags: [blog]
 - 自我激励，让无处安放的鸡汤可以肆意出现在我的blog里。
 - 认识伙伴，交流提高效率，且技术分享出去是会裂变的，最终形成巨大的影响。
 - 整理项目，把之前的小项目放到GitHub上。
+
 [Jekyll]: https://www.youtube.com/watch?v=bDQsGdCWv4I&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=12
 [disqus]: https://desiredpersona.com/disqus-comments-jekyll/
 [Rubygems]: https://rubygems.org/
