@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 建立blog经历
-subtitle: 絮絮叨叨| 树燏
+subtitle: 絮絮叨叨 | 树燏
 date: 2020-03-15 
 tags: [blog,jekyll]
 bigimg: /img/bg.jpg
@@ -50,6 +50,7 @@ image: /img/bg.jpg
 - 此次，我使用GitHub desktop管理本地仓库，git bash 管理版本回退，去github主页，看回退的版本号，复制，接着git bash在本地仓库打开，输出命令`git reset commit [commit_id]`即可。
 
 - 其中，我发现我不好的习惯，我经常只改动很小的一部分，就急着commit & push一次，并且不好好写commit，到需要版本回退时就很麻烦。
+
 - 最终，GitHub真香，我还在探索GitHub中，千千万万个开源项目等着我去发掘。
 
 <br>
