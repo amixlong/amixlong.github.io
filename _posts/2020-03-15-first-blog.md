@@ -1,9 +1,9 @@
 ---
 layout: post
-title ： 建立blog经历
-date： 2020-03-15 
+title：建立blog经历
+date：2020-03-15 
 author: 树燏
-tags: [blog ,github]
+tags: [blog]
 ---
 ### 了解Jekyll
 - 在正式搭建之前，我先去YouTube把Jekyll搭建一个博客的过程看完了，教程通俗易懂，但没有网页开发经验的新手实际搭建起来还是挺难的。
