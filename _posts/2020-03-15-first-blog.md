@@ -1,7 +1,7 @@
 ---
 layout: post
-title：建立blog经历
-date：2020-03-15 
+title: 建立blog经历
+date: 2020-03-15 
 author: 树燏
 tags: [blog]
 ---
