@@ -4,7 +4,6 @@ title: 建立blog经历
 subtitle: 絮絮叨叨 | 树燏
 date: 2020-03-15 
 tags: [blog,jekyll]
-bigimg: /img/bg.jpg
 image: /img/bg.jpg
 ---
 
