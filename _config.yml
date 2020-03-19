@@ -21,8 +21,7 @@ description: 树燏
 # List of links in the navigation bar
 navbar-links:
   About Me: 
-    - My resume: "aboutme"
-    - 我的简历 : ""
+    - nothing: "aboutme"
   Project:
 
 
